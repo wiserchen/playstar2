@@ -13,6 +13,16 @@
 					<key>url</key>
 					<string>https://dl.dropbox.com/s/alo9v5kdj3fiw46/playstarslot-mobile.ipa</string>
 				</dict>
+				<dict>
+                  <key>kind</key>
+                  <string>display-image</string>
+                  <!-- optional. icon needs shine effect applied. -->
+                  <!-- 選擇，ICON Shine/Gloss 效果是否開啟-->
+                  <key>needs-shine</key>
+                  <true />
+                  <key>url</key>
+                  <string>https://ipa.iplaystar.net/PSS-ON-00001.png</string>
+               </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
